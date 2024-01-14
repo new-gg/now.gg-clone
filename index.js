@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://3kh0.github.io";
+const url = "https://nowgg.nl";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
