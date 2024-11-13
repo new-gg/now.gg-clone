@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://nowgg.nl";
+const url = "https://1v1.lol";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
